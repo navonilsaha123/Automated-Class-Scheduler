@@ -1,0 +1,211 @@
+{
+  "generationId": "0bd39f5a51394b7c9b36a7af559bae6e",
+  "instituteId": 1,
+  "instituteName": "example",
+  "createdAt": "2026-03-27T14:14:57.535872Z",
+  "departments": [
+    {
+      "departmentId": 1,
+      "departmentName": "CSE",
+      "slots": [
+        {
+          "slotCode": "P1",
+          "time": "9:30-10:20",
+          "entries": {
+            "Monday": "Electronics lab",
+            "Tuesday": "Linux lab",
+            "Wednesday": "Python lab",
+            "Thursday": "Computer Networks",
+            "Friday": "DBMS"
+          }
+        },
+        {
+          "slotCode": "P2",
+          "time": "10:20-11:10",
+          "entries": {
+            "Monday": "Electronics lab",
+            "Tuesday": "Linux lab",
+            "Wednesday": "Python lab",
+            "Thursday": "DSA",
+            "Friday": "Math"
+          }
+        },
+        {
+          "slotCode": "P3",
+          "time": "11:10-12:00",
+          "entries": {
+            "Monday": "OS",
+            "Tuesday": "Computer Networks",
+            "Wednesday": "DBMS",
+            "Thursday": "Math",
+            "Friday": "DSA"
+          }
+        },
+        {
+          "slotCode": "P4",
+          "time": "12:00-12:50",
+          "entries": {
+            "Monday": "Computer Networks",
+            "Tuesday": "OS",
+            "Wednesday": "DSA",
+            "Thursday": "DBMS",
+            "Friday": "OS"
+          }
+        },
+        {
+          "slotCode": "P5",
+          "time": "1:40-2:30",
+          "entries": {
+            "Monday": "Math",
+            "Tuesday": "DBMS",
+            "Wednesday": "Computer Networks",
+            "Thursday": "OS",
+            "Friday": "Computer Networks"
+          }
+        },
+        {
+          "slotCode": "P6",
+          "time": "2:30-3:20",
+          "entries": {
+            "Monday": "DSA",
+            "Tuesday": "Math",
+            "Wednesday": "Math",
+            "Thursday": "Free / Self Study",
+            "Friday": "Free / Self Study"
+          }
+        },
+        {
+          "slotCode": "P7",
+          "time": "3:20-4:10",
+          "entries": {
+            "Monday": "DBMS",
+            "Tuesday": "DSA",
+            "Wednesday": "OS",
+            "Thursday": "Free / Self Study",
+            "Friday": "Free / Self Study"
+          }
+        },
+        {
+          "slotCode": "P8",
+          "time": "4:10-5:00",
+          "entries": {
+            "Monday": "Free / Self Study",
+            "Tuesday": "Free / Self Study",
+            "Wednesday": "Free / Self Study",
+            "Thursday": "Free / Self Study",
+            "Friday": "Free / Self Study"
+          }
+        }
+      ],
+      "summary": {
+        "totalSubjects": 8,
+        "theorySubjects": 5,
+        "labSubjects": 3,
+        "scheduledPeriods": 31,
+        "freePeriods": 9
+      }
+    },
+    {
+      "departmentId": 2,
+      "departmentName": "IT",
+      "slots": [
+        {
+          "slotCode": "P1",
+          "time": "9:30-10:20",
+          "entries": {
+            "Monday": "AI Lab",
+            "Tuesday": "SQL lab",
+            "Wednesday": "AI theory",
+            "Thursday": "DBMS",
+            "Friday": "Math"
+          }
+        },
+        {
+          "slotCode": "P2",
+          "time": "10:20-11:10",
+          "entries": {
+            "Monday": "AI Lab",
+            "Tuesday": "SQL lab",
+            "Wednesday": "OS",
+            "Thursday": "Software Engineering",
+            "Friday": "AI theory"
+          }
+        },
+        {
+          "slotCode": "P3",
+          "time": "11:10-12:00",
+          "entries": {
+            "Monday": "DBMS",
+            "Tuesday": "Math",
+            "Wednesday": "Software Engineering",
+            "Thursday": "OS",
+            "Friday": "DBMS"
+          }
+        },
+        {
+          "slotCode": "P4",
+          "time": "12:00-12:50",
+          "entries": {
+            "Monday": "AI theory",
+            "Tuesday": "OS",
+            "Wednesday": "Math",
+            "Thursday": "AI theory",
+            "Friday": "Software Engineering"
+          }
+        },
+        {
+          "slotCode": "P5",
+          "time": "1:40-2:30",
+          "entries": {
+            "Monday": "Math",
+            "Tuesday": "DBMS",
+            "Wednesday": "DBMS",
+            "Thursday": "Math",
+            "Friday": "OS"
+          }
+        },
+        {
+          "slotCode": "P6",
+          "time": "2:30-3:20",
+          "entries": {
+            "Monday": "Software Engineering",
+            "Tuesday": "AI theory",
+            "Wednesday": "Free / Self Study",
+            "Thursday": "Free / Self Study",
+            "Friday": "Free / Self Study"
+          }
+        },
+        {
+          "slotCode": "P7",
+          "time": "3:20-4:10",
+          "entries": {
+            "Monday": "OS",
+            "Tuesday": "Software Engineering",
+            "Wednesday": "Free / Self Study",
+            "Thursday": "Free / Self Study",
+            "Friday": "Free / Self Study"
+          }
+        },
+        {
+          "slotCode": "P8",
+          "time": "4:10-5:00",
+          "entries": {
+            "Monday": "Free / Self Study",
+            "Tuesday": "Free / Self Study",
+            "Wednesday": "Free / Self Study",
+            "Thursday": "Free / Self Study",
+            "Friday": "Free / Self Study"
+          }
+        }
+      ],
+      "summary": {
+        "totalSubjects": 7,
+        "theorySubjects": 5,
+        "labSubjects": 2,
+        "scheduledPeriods": 29,
+        "freePeriods": 11
+      }
+    }
+  ],
+  "excelDownloadUrl": "/api/timetables/0bd39f5a51394b7c9b36a7af559bae6e/download"
+}
